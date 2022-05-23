@@ -3,7 +3,7 @@ const video = videoPlayer.querySelector('.video')
 const playButton = videoPlayer.querySelector('.play-button')
 
 //Play i Pause botó
-playButton.addEventListener('click', (e) => {
+playButton.addEventListener('mouseenter', (e) => {
   if(video.paused){
     video.play()
     e.target.textContent = '❚ ❚'
