@@ -30,7 +30,7 @@ h1 span {
 .video-player {
     /*max-width: 400%;
     min-width: 40%;*/
-    width: 90%;
+    width: 100%;
     height: auto;
     margin: 50px auto 50px;
     display: grid;
