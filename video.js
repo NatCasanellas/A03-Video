@@ -1,4 +1,4 @@
-const videoPlayer = document.querySelector('.video-player')
+/*const videoPlayer = document.querySelector('.video-player')
 const video = videoPlayer.querySelector('.video')
 const playButton = videoPlayer.querySelector('.play-button')
 
@@ -11,4 +11,4 @@ playButton.addEventListener('mouseenter', (e) => {
     video.pause()
     e.target.textContent = '►'
   }
-})
+})*/
