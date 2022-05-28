@@ -6,9 +6,9 @@ body {
     background: 333;
     min-height: 100vh;
     background: whitesmoke/*linear-gradient(135deg, #000000 0%, #333 48%, #686868 100%);*/
-    background-size: cover;
-    align-items: center;
-    justify-content: center;
+    /*background-size: cover;*/
+    /*align-items: center;*/
+    /*justify-content: center;*/
 }
 
 h1::before {
